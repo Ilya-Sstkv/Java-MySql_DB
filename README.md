@@ -1,3 +1,5 @@
+# Java_MySQL_DataBase
+
 Console application that simulates the work of the simplest social network. 
 Information about all users, including their ids, names, passwords etc. is stored in the database integrated into the program.
 
